@@ -1,0 +1,31 @@
+primary_type,class
+ARSON,Property Offences
+ASSAULT,Violent & Homicide
+BATTERY,Violent & Homicide
+BURGLARY,Property Offences
+CONCEALED CARRY LICENSE VIOLATION,Violent & Homicide
+CRIMINAL DAMAGE,Property Offences
+CRIMINAL SEXUAL ASSAULT,Sexual Offences
+CRIMINAL TRESPASS,Disorderly Conduct
+DECEPTIVE PRACTICE,Property Offences
+GAMBLING,Disorderly Conduct
+HOMICIDE,Violent & Homicide
+HUMAN TRAFFICKING,Violent & Homicide
+INTERFERENCE WITH PUBLIC OFFICER,Disorderly Conduct
+INTIMIDATION,Violent & Homicide
+KIDNAPPING,Violent & Homicide
+LIQUOR LAW VIOLATION,Disorderly Conduct
+MOTOR VEHICLE THEFT,Property Offences
+NARCOTICS,Disorderly Conduct
+OBSCENITY,Sexual Offences
+OFFENSE INVOLVING CHILDREN,Others
+OTHER OFFENSE,Others
+PROSTITUTION,Sexual Offences
+PUBLIC INDECENCY,Sexual Offences
+PUBLIC PEACE VIOLATION,Disorderly Conduct
+RITUALISM,Violent & Homicide
+ROBBERY,Property Offences
+SEX OFFENSE,Sexual Offences
+STALKING,Disorderly Conduct
+THEFT,Property Offences
+WEAPONS VIOLATION,Violent & Homicide
